@@ -1,0 +1,121 @@
+body{
+    width:100%;
+    height:100%
+}
+#item1{
+    gap:10px;
+  
+}
+.divs{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width:100%;
+  
+    
+}
+#maindiv{
+    gap:20px;
+    width:100%;
+    justify-content: center;
+    height: 100%;
+}
+#grid-section{
+    width:100%;
+   
+}
+#grid-section{
+    height:50%;
+
+}
+#secondfirst{
+    width:90%;
+height:20px;
+
+}
+.gs,#center-content{
+    width:90%;
+
+}
+#second1,#second2,#second3,#second4{
+    width:90%;
+}
+.typing1 ,.typing2{
+    width:90%;
+}
+.typing2{
+    height:40px;
+}
+
+
+#second{
+    align-items: center;
+    justify-content: center;
+}
+#second>div {
+    box-shadow: 0 6px 6px rgba(14, 14, 14, 0.2);
+    align-items: center;
+    justify-content: center;
+}
+#div1{
+    box-shadow: 0 6px 6px rgba(22, 22, 22, 0.2);
+height:700px;
+}
+.w-full {
+    width: 100%;
+}
+
+ #seconditem1,#seconditems {
+    width: 100%;
+}
+#seconditems{
+p{
+    gap:20px;
+}
+box-shadow: 0 4px 4px rgba(45, 44, 44, 0.2);
+
+
+}
+.writting,#div1,.div1{
+    box-shadow: 0 4px 4px rgba(95, 95, 95, 0.2);
+
+}
+#items1{
+    background-color: rgb(248, 241, 232);
+}
+.selects{
+    gap:10px;
+}
+.pic{
+width:80%;
+height: 200px;
+}
+PRE{
+    text-align: start;
+}
+#instent {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+#allitems{
+    color: black;
+    z-index: 1000; /* Adjust as needed to ensure it's on top */
+    top: 100%; /* Adjust as needed */
+    position: relative; /* or relative, depending on your layout */
+left: 0;
+background-color: white;
+width:300px;
+height:600px;
+top: -60px;
+box-shadow: 0 4px 4px rgba(95, 95, 95, 0.2);
+
+
+
+}
+/* Styles for the text content */
+
+.bg-grey-300 {
+    background-color: #e2e8f0;
+}
